@@ -1,6 +1,4 @@
 #UniFly
-[![Downloads](https://unifly.gg/setup.exe](https://unifly.gg/setup.exe)
-
 
 Welcome to UniFly on GitHub!
 While our code is currently not open source we welcome people to use this space to report bugs and have discussions about our current application.
@@ -18,3 +16,7 @@ We wanted a tool that would be easy to connect to and just "work" without the cu
  ### Installation
  > **Warning**
  > We are currently in beta versions at this current time, and expect to have issues.
+ > 
+ #### Download ####
+ > Download at: https://unifly.gg/setup.exe
+
