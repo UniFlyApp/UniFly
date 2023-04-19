@@ -18,5 +18,5 @@ We wanted a tool that would be easy to connect to and just "work" without the cu
  > We are currently in beta versions at this current time, and expect to have issues.
  > 
  #### Download ####
- > Download at: https://unifly.gg/setup.exe
+ Download at: https://unifly.gg/setup.exe
 
