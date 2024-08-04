@@ -10,4 +10,4 @@ Contents
 
  ### Installation
 
-Find our installer on [our website](https://unifly.gg/#Download). If you need help or have any questions, caht to us on [our discord](https://unifly.gg/discord)
+Find our installer on [our website](https://unifly.gg/#Download). If you need help or have any questions, chat to us on [our discord](https://unifly.gg/discord)
